@@ -1,7 +1,12 @@
 import React from 'react';
 // import './App.css';
-import PersonListing from './PersonListing/PersonListing';
 
-const App = () => (<PersonListing />);
+/* Project PersonListing */
+// import PersonListing from './PersonListing/PersonListing';
+
+/*  #### Project CityTour ####  */
+import CityTour from './CityTour/CityTour';
+
+const App = () => (<CityTour />);
 
 export default App;
