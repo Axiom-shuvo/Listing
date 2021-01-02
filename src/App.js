@@ -5,8 +5,11 @@ import React from 'react';
 // import PersonListing from './PersonListing/PersonListing';
 
 /*  #### Project CityTour ####  */
-import CityTour from './CityTour/CityTour';
+// import CityTour from './CityTour/CityTour';
 
-const App = () => (<CityTour />);
+/* #### project To-Do List with Boottrap ##### */
+import TodoListpr from './TodoList/TodoListpr';
+
+const App = () => (<TodoListpr />);
 
 export default App;
